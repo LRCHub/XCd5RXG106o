@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "退屈日和",
+  "base_artist": "なきごと",
+  "createdAt": "2025-12-20T12:13:24.489245Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "退屈日和",
+      "artist": "なきごと",
+      "has_synced": false,
+      "path": "select/pl_01_退屈日和_なきごと.txt"
+    }
+  ]
+}
